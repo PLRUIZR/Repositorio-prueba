@@ -1,2 +1,2 @@
-# Repositorio-prueba
-Este repositorio es de practica modulo 2
+Como crear un repositorio y clonarlo desde mi escritorio local
+
